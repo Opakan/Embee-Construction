@@ -1,0 +1,6 @@
+{
+  "name": "Embee Consult & Construction",
+  "description": "Dark cinematic premium website for Embee Consult and Construction Nig. Ltd - specialists in architectural design, structural works, and luxury building construction.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
